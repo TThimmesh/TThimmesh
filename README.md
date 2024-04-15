@@ -1,6 +1,6 @@
 ## Taylor Thimmesh
 
-# 💫 About Me:
+### About Me:
 Studying Cybersecurity and Computer Science at Concord University
 
 ## 🌐 Socials:
