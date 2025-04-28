@@ -1,7 +1,7 @@
 ## Taylor Thimmesh
 
 ### About Me:
-Studying Cybersecurity and Computer Science at Concord University
+Studying Cybersecurity and CIS at Concord University
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/taylorthimmesh) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@wasdtaylor) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wasdtaylor) 
